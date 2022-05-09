@@ -4,8 +4,10 @@
 
 ## 运行环境
 
-- **操作系统** macOS Monterey 12.3.1
-- **Python环境** Conda (Python 3.10)
+- **操作系统**
+  - macOS Monterey 12.3.1
+- **Python环境**
+  - Conda (Python 3.10)
 - **额外的软件包**
   - flask
   - lxml
