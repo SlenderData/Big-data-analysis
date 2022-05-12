@@ -14,6 +14,7 @@
   - bs4
     - beautifulsoup4
   - scrapy
+  - itemadapter
 
 ## 使用许可
 
