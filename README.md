@@ -10,7 +10,11 @@
   - Conda (Python 3.10)
 - **使用到的软件**
   - [PyCharm](https://www.jetbrains.com/pycharm/)
-- **额外的软件包**
+  - [Typora](https://typora.io/) [(中文站)](https://typoraio.cn/)
+  - [Microsoft365 Word](https://www.microsoft.com/microsoft-365)
+  - [WPS Office](https://www.wps.com/)
+  - [Snipaste](https://www.snipaste.com/)
+- **Python需要添加的额外的软件包**
   - flask
   - lxml
   - bs4
