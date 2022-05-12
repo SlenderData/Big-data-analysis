@@ -8,6 +8,8 @@
   - macOS Monterey 12.3.1
 - **Python环境**
   - Conda (Python 3.10)
+- **使用到的软件**
+  - [PyCharm](https://www.jetbrains.com/pycharm/)
 - **额外的软件包**
   - flask
   - lxml
