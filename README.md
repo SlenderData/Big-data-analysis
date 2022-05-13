@@ -27,5 +27,3 @@
 ## 使用许可
 
 [MIT](LICENSE) © SlenderData
-
-test git github
