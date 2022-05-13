@@ -6,10 +6,12 @@
 
 - **操作系统**
   - macOS Monterey 12.3.1
+  - Windows 11
+  - ubuntu 22.04 LTS
 - **Python环境**
   - Conda (Python 3.10)
 - **使用到的软件**
-  - [PyCharm](https://www.jetbrains.com/pycharm/)
+  - [PyCharm Professional Edition](https://www.jetbrains.com/pycharm/)
   - [Typora](https://typora.io/) [(中文站)](https://typoraio.cn/)
   - [Microsoft365 Word](https://www.microsoft.com/microsoft-365)
   - [WPS Office](https://www.wps.com/)
