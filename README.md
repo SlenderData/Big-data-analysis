@@ -27,3 +27,5 @@
 ## 使用许可
 
 [MIT](LICENSE) © SlenderData
+
+test from ubuntu 22.04 LTS
