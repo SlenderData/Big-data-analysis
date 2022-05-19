@@ -12,6 +12,7 @@
   - Conda (Python 3.10)
 - **使用到的软件**
   - [PyCharm Professional Edition](https://www.jetbrains.com/pycharm/)
+  - [Visual Studio Code](https://azure.microsoft.com/zh-cn/products/visual-studio-code/)
   - [Typora](https://typora.io/) [(中文站)](https://typoraio.cn/)
   - [Microsoft365 Word](https://www.microsoft.com/microsoft-365)
   - [WPS Office](https://www.wps.com/)
@@ -23,6 +24,7 @@
     - beautifulsoup4
   - scrapy
   - itemadapter
+  - django
 
 ## 使用许可
 
