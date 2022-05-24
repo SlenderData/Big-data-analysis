@@ -1,8 +1,8 @@
-# :globe_with_meridians: BigDataAnalysis
+# 🌐 BigDataAnalysis
 
 本项目为我个人于 2021 - 2022 学年第 2 学期在学习课程 **Python大数据分析与应用** 时所编写的代码、撰写的文档及参考的资料。
 
-## :keyboard: 开发环境
+## ⌨️ 开发环境
 
 - **操作系统**
   - macOS Monterey 12.4
@@ -26,6 +26,6 @@
   - itemadapter
   - django
 
-## :page_facing_up: 使用许可
+## 📄 使用许可
 
 [MIT](LICENSE) © SlenderData
