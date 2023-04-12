@@ -8,8 +8,8 @@
   - macOS Monterey 12.4
   - Windows 11
   - ubuntu 22.04 LTS
-- **Python环境**
-  - Conda (Python 3.10)
+- **Python 环境**
+  - Anaconda (Python 3.10)
 - **使用到的软件**
   - [PyCharm Professional Edition](https://www.jetbrains.com/pycharm/)
   - [Visual Studio Code](https://azure.microsoft.com/zh-cn/products/visual-studio-code/)
@@ -17,7 +17,7 @@
   - [Microsoft365 Word](https://www.microsoft.com/microsoft-365)
   - [WPS Office](https://www.wps.com/)
   - [Snipaste](https://www.snipaste.com/)
-- **Python需要添加的额外的软件包**
+- **Python 需要添加的额外的软件包**
   - flask
   - lxml
   - bs4
