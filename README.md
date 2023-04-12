@@ -17,7 +17,7 @@
   - [Microsoft365 Word](https://www.microsoft.com/microsoft-365)
   - [WPS Office](https://www.wps.com/)
   - [Snipaste](https://www.snipaste.com/)
-- **Python 需要添加的额外的软件包**
+- **Python 需要额外添加的软件包**
   - flask
   - lxml
   - bs4
